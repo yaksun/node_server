@@ -1,0 +1,8 @@
+https://blog.csdn.net/qq_26598303/article/details/53468399
+
+前台要安装的插件
+vue-resource
+
+后台要安装的插件
+express
+mongoose 操作mongodb的中间件
