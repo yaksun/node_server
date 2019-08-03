@@ -1,3 +1,4 @@
+项目来源
 https://blog.csdn.net/qq_26598303/article/details/53468399
 
 前台要安装的插件
@@ -6,3 +7,7 @@ vue-resource
 后台要安装的插件
 express
 mongoose 操作mongodb的中间件
+
+
+mongodb基本命令操作
+https://www.cnblogs.com/liuyanpeng/p/7735698.html
